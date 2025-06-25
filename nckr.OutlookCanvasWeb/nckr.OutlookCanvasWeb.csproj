@@ -116,7 +116,6 @@
     <Content Include="Images\Icon80.png" />
     <Content Include="MessageRead.css" />
     <Content Include="MessageRead.html" />
-    <Content Include="MessageRead.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
